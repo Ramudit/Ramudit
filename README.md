@@ -335,10 +335,14 @@ A personal portfolio website created to showcase my projects, technical skills a
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ramudit&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Profile Trophies">
-</p>
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Ramudit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"
+    alt="GitHub Profile Trophies"
+  />
+</p>
 ---
 
 # 📅 Contribution Calendar
